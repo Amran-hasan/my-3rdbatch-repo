@@ -1,0 +1,108 @@
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:<weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.name{
+
+    color: #FD6E0A;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #474747;
+}
+nav ul li{
+    margin-right: 51px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.button-color{
+    background-color : #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size:20px ;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+.header{
+background-image: url('../images/developer.png'),url('../images/header_bg.png');
+background-position: top left,bottom right;
+background-repeat: no-repeat;
+background-color: #FFF8F3;
+
+}
+.top{
+    justify-content: space-between;
+    display: flex;
+}
+.mary{
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 45px;
+}
+.mary-description{
+    margin-left: 200px;
+}
+.greetings{
+    font-weight: 600;
+    font-size: 45px;
+}
+.para{
+    font-weight: 400;
+    font-size: 18px;
+}
+.hardy{
+    font-weight: bold;
+    font-size: 85px;
+}
+ .about{ 
+    display: flex;
+    justify-content: space-around;
+}
+.about-me{
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 100px 300px;
+ 
+}
+
+.skills{
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+   
+}
+.what{
+    text-align: center;
+   
+}
+.skill{
+    background-color: #fae0ce;
+    margin: 30px;
+    padding: 10px;
+    text-align: justify;
+}
+.resume{
+    display: flex;
+
+}
